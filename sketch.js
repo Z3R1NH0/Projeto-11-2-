@@ -5,7 +5,7 @@ var score;
 function preload(){
 
   bg_Img = loadImage ("BG.png");
-  boyIng = loadAnimation ("png/Run (1).png","png/Run (2).png","png/Run (3).png","png/Run (4).png","png/Run (5).png","png/Run (6).png","png/Run (7).png","png/Run (8).png");
+  boyIng = loadAnimation ("Run (1).png","Run (2).png","Run (3).png","Run (4).png","Run (5).png","Run (6).png","Run (7).png","Run (8).png");
 }
 
 function setup(){
